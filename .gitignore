@@ -1,0 +1,4 @@
+mmgg/img/*
+*/__pycache__/*
+*.db
+.vscode/*
