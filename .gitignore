@@ -2,3 +2,7 @@ mmgg/img/*
 */__pycache__/*
 *.db
 .vscode/*
+*.csv
+*/.project
+*.bak
+jingdong/history
